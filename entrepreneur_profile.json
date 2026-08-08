@@ -1,0 +1,16 @@
+{
+  "entrepreneur": {
+    "name": "",
+    "location": {
+      "village": "",
+      "district": "",
+      "state": "Andhra Pradesh",
+      "country": "India"
+    },
+    "preferred_language": "Telugu",
+    "digital_access": "Basic smartphone and WhatsApp",
+    "available_capital": 0,
+    "available_hours_per_day": 0,
+    "available_resources": []
+  }
+}
