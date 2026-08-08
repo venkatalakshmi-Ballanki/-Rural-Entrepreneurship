@@ -1,0 +1,58 @@
+{
+  "channels": [
+    {
+      "name": "Village Sales",
+      "margin": 0,
+      "volume_potential": "Medium",
+      "transport_requirement": "Low",
+      "payment_delay": "Low",
+      "digital_requirement": "Low",
+      "intermediary_dependence": "Low"
+    },
+    {
+      "name": "Nearby Town",
+      "margin": 0,
+      "volume_potential": "Medium",
+      "transport_requirement": "Medium",
+      "payment_delay": "Low",
+      "digital_requirement": "Low",
+      "intermediary_dependence": "Low"
+    },
+    {
+      "name": "Retail Shops",
+      "margin": 0,
+      "volume_potential": "High",
+      "transport_requirement": "Medium",
+      "payment_delay": "Medium",
+      "digital_requirement": "Low",
+      "intermediary_dependence": "Medium"
+    },
+    {
+      "name": "SHG / Cooperative",
+      "margin": 0,
+      "volume_potential": "High",
+      "transport_requirement": "Medium",
+      "payment_delay": "Medium",
+      "digital_requirement": "Low",
+      "intermediary_dependence": "Medium"
+    },
+    {
+      "name": "WhatsApp / Social Commerce",
+      "margin": 0,
+      "volume_potential": "Medium",
+      "transport_requirement": "Medium",
+      "payment_delay": "Low",
+      "digital_requirement": "Medium",
+      "intermediary_dependence": "Low"
+    },
+    {
+      "name": "Online Marketplace",
+      "margin": 0,
+      "volume_potential": "High",
+      "transport_requirement": "High",
+      "payment_delay": "Medium",
+      "digital_requirement": "High",
+      "intermediary_dependence": "High"
+    }
+  ]
+}
