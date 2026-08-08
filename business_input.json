@@ -1,0 +1,24 @@
+{
+  "business": {
+    "product": "Millet Laddu",
+    "description": "",
+    "production_capacity_units_per_month": 0,
+    "planned_quantity_for_test": 0,
+    "target_customers": [],
+    "current_customers": 0,
+    "selling_price_per_unit": 0,
+    "currency": "INR"
+  },
+  "costs": {
+    "raw_material": 0,
+    "labour": 0,
+    "packaging": 0,
+    "fuel_electricity": 0,
+    "transport": 0,
+    "storage": 0,
+    "spoilage": 0,
+    "platform_commission": 0,
+    "intermediary_commission": 0,
+    "other": 0
+  }
+}
