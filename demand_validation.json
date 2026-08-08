@@ -1,0 +1,13 @@
+{
+  "demand_test": {
+    "test_duration_days": 7,
+    "sample_units": 25,
+    "test_price_per_unit": 0,
+    "target_paid_orders": 15,
+    "actual_paid_orders": 0,
+    "repeat_orders": 0,
+    "customer_feedback": [],
+    "retailer_interest": 0,
+    "evidence_status": "Not yet tested"
+  }
+}
