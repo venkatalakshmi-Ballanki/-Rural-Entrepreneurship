@@ -1,0 +1,37 @@
+{
+  "rural_venture_decision_card": {
+    "entrepreneur_and_context": "",
+    "customer_and_problem": "",
+    "evidence_collected": [],
+    "verified_external_information": [],
+    "key_assumptions": [],
+    "missing_evidence": [],
+    "cost_per_unit": 0,
+    "selling_price": 0,
+    "expected_margin_percent": 0,
+    "break_even_quantity": 0,
+    "recommended_sales_channel": "",
+    "principal_risks": [],
+    "decision": "TEST FURTHER",
+    "decision_reasoning": "",
+    "confidence": "Low",
+    "thirty_day_action_plan": [
+      {
+        "week": 1,
+        "actions": []
+      },
+      {
+        "week": 2,
+        "actions": []
+      },
+      {
+        "week": 3,
+        "actions": []
+      },
+      {
+        "week": 4,
+        "actions": []
+      }
+    ]
+  }
+}
