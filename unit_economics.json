@@ -1,0 +1,15 @@
+{
+  "unit_economics": {
+    "total_cost": 0,
+    "units_produced": 0,
+    "cost_per_unit": 0,
+    "selling_price_per_unit": 0,
+    "profit_per_unit": 0,
+    "profit_margin_percent": 0,
+    "break_even_units": 0,
+    "monthly_revenue": 0,
+    "monthly_cost": 0,
+    "monthly_profit": 0,
+    "calculation_notes": []
+  }
+}
