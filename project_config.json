@@ -1,0 +1,26 @@
+{
+  "project_name": "Rural Venture Navigator",
+  "version": "1.0",
+  "purpose": "Evidence-based business decision support for rural women entrepreneurs",
+  "target_entrepreneur": "Rural woman producing millet-based products",
+  "inclusive_features": [
+    "Telugu/regional-language interaction",
+    "Simple-language mode",
+    "Mobile-friendly interface"
+  ],
+  "final_decisions": [
+    "PROCEED",
+    "PILOT",
+    "MODIFY",
+    "COLLABORATE",
+    "TEST FURTHER",
+    "PAUSE"
+  ],
+  "evidence_categories": [
+    "FACTS FROM ENTREPRENEUR",
+    "VERIFIED EXTERNAL INFORMATION",
+    "ASSUMPTIONS",
+    "CALCULATIONS",
+    "MISSING EVIDENCE"
+  ]
+}
